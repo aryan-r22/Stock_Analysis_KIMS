@@ -1,4 +1,4 @@
-# Stock Analysiss for [KIMS IN](https://www.screener.in/company/KIMS/consolidated/) stock
+# Stock Analysis for [KIMS IN](https://www.screener.in/company/KIMS/consolidated/) stock
 
 ## File Composition
 
