@@ -2,6 +2,6 @@
 
 ## File Composition
 
-> Stock Pitch
-> Model
+- **Stock Pitch**: Presentation deck for stock.
+- **Financial Model**: Valuation for stock using DCF and Multiples.
 
